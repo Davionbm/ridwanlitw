@@ -1,0 +1,21 @@
+h1 {
+  color: black;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+}
+
+form {
+  font-size: 25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: green;
+}
+
+img {
+    align-content: center;
+    width: 250px;
+    height: 250px;
+}
+
+body {
+  background-color: white;
+}
